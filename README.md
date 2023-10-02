@@ -1,10 +1,10 @@
 # CodSoft-WebDevelopment-internship
 
 
-#Task-1: Calculater 
+# Task-1: Calculater 
 This is a simple web-based calculator application that allows you to perform basic arithmetic calculations. 
 
-#Task-2: Portfolio 
+# Task-2: Portfolio 
   This is a simple personal portfolio website that includes sections such as about, skills, projects, resume, and contact.
 
 # Task-3 Landing Page
